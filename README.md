@@ -4,12 +4,12 @@ I build AI agents and developer tools, shipping something new every week with Cl
 
 ## Currently building
 
-| Project | What it is | Status |
+| Project | Description | Status |
 |---|---|---|
-| support-ticket-analytics | CLI that turns support-ticket exports into weekly metrics, built entirely with Claude Code | 🚧 In progress |
-| claude-code-workflow-plugin | Installable Claude Code plugin: AI code review, correction tracking, safety hooks | Coming soon |
-| support-tickets-mcp-server | Read-only MCP server that gives AI agents safe access to ticket data | Coming soon |
-| bug-reproduction-agent | Agent that reproduces reported bugs, with evals and red-team results | Coming soon |
+| issuepulse | CLI for tracking GitHub issue health: volume, labels, and response times | 🚧 In progress |
+| claude-code-workflow-plugin | Claude Code plugin for AI code review, safety hooks, and correction tracking | Coming soon |
+| issuepulse-mcp | MCP server for read-only access to GitHub issue data | Coming soon |
+| reprobot | AI agent that reproduces bug reports from GitHub issues | Coming soon |
 
 ## How I work
 
